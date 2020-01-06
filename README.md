@@ -1,3 +1,10 @@
+This repository was forked from:
+
+[ConVis: A Visual Text Analytic System for Exploring Blog Conversations](https://github.com/enamulh/ConVis).
+
+I am forking this project to better understand it's code.
+
+
 # ConVis
 ConVis: A Visual Text Analytic System for Exploring Blog Conversations
 
